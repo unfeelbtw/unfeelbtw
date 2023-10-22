@@ -5,7 +5,7 @@
 * [Pixel Race](https://github.com/oneheka/Pixel-Race) — Easy python game based on `pygame` python library.
 
 > ## Stats
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=unfeelbtw&layout=compact&theme=merko)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=unfeelbtw&layout=compact&theme=transparent)
 
 > ## Langugages & Tools
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
