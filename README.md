@@ -8,5 +8,5 @@
 
 > ## Langugages & Tools
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![C++](https://shields.io/badge/-C++-090909?style=for-the-badge&logo=cpp)
+![Cpp](https://shields.io/badge/-C++-090909?style=for-the-badge&logo=cpp)
 ![SQL](https://shields.io/badge/-Sql-090909?style=for-the-badge&logo=sql)
