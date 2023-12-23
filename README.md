@@ -6,7 +6,7 @@
 
 > ## Stats
 ![Lang](https://github-readme-stats.vercel.app/api?username=unfeelbtw&show_icons=true&theme=dark#gh-dark-mode-only)
-https://unfeel.ru/?width=30%&height=610px&scrolling=no
+![Status](https://unfeel.ru/?width=30%&height=610px&scrolling=no)
 
 > ## Langugages & Tools
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
